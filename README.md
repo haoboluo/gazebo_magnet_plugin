@@ -6,9 +6,10 @@ This repo serves as a template to write a model plugin of Gazebo using Clion.
 1. Download the repo 
 ~~~
 git clone https://github.com/haoboluo/gazebo_plugin
+mv gazebo_plugin_tutorial/ ..
 ~~~
 
-2. Open the project in Clion. 
+2. Open a project for 'gazebo_plugin_tutorial' in Clion. 
 
 3. configure as: 
 
